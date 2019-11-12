@@ -4,7 +4,11 @@ Esse repositório tem a intenção de fazer um inventário das camadas e arquivo
 
 ## Metodologia
 
-A intenção é usar um WebCrawler escrito em Python, usando Selenium para percorrer o site todo em busca de camadas e seus dados, assim como os arquivos disponíveis para Download
+A intenção é criar um WebCrawler escrito em Python, usando Selenium para percorrer o site todo em busca de camadas e seus dados, assim como os arquivos disponíveis para Download.
+
+### Primeiros passos
+
+Inicialmente vamos criar um Notebook para testar e inspirar noos projetos que queiram usar WebCrawlers para consumir os dados do GeoSampa
 
 ## Resultados
 
