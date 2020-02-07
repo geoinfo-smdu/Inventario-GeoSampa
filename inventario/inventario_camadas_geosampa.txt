@@ -1,0 +1,965 @@
+Seguem a seguir as 192 camadas obtidas pelo serviço WMS do GeoPortal do GeoSampa
+******************************
+Índice: 1.1
+Camada: Índice das Ortofotos 2004 - MDC
+Palavras-chave: []
+Resumo: Índice das Ortofotos do ano de 2004 nas escalas 1:000 e 1:5000.
+******************************
+Índice: 1.1.1
+Camada: Índice das Ortofotos 2004 - MDC - escala 1:5000
+Palavras-chave: ['features', 'quadricula_orto_2004_E5000_v2']
+Resumo: Índice das Ortofotos do ano de 2004 na escala 1:5000.
+******************************
+Índice: 1.1.2
+Camada: Índice das Ortofotos 2004 - MDC - escala 1:1000
+Palavras-chave: ['features', 'quadricula_orto_2004_E1000_v2']
+Resumo: Índice das Ortofotos do ano de 2004 na escala 1:1000.
+******************************
+Índice: 1.2
+Camada: Índice SARA Brasil em 1930
+Palavras-chave: []
+Resumo: Índice das Cartas do Mapa Topográfico do Município de São Paulo (SARA - 1930) em escala 1:1000 na área central e 1:5.000 e 1:20.000 nas áreas pouco urbanizadas.
+******************************
+Índice: 1.2.1
+Camada: Índice SARA Brasil em 1930 - escala 1:20000
+Palavras-chave: ['quadricula_SARA_1930_E20000_v2', 'features']
+Resumo: Índice das Cartas do Mapa Topográfico do Município de São Paulo (SARA - 1930) em escala 1:20.000 nas áreas pouco urbanizadas.
+******************************
+Índice: 1.2.2
+Camada: Índice SARA Brasil em 1930 - escala 1:5000
+Palavras-chave: ['features', 'quadricula_SARA_1930_E5000_v2']
+Resumo: Índice das Cartas do Mapa Topográfico do Município de São Paulo (SARA - 1930) em escala 1:5.000 nas áreas pouco urbanizadas.
+******************************
+Índice: 1.2.3
+Camada: Índice SARA Brasil em 1930 - escala 1:1000
+Palavras-chave: ['quadricula_SARA_1930_E1000_v2', 'features']
+Resumo: Índice das Cartas do Mapa Topográfico do Município de São Paulo (SARA - 1930) em escala 1:1000 na área central.
+******************************
+Índice: 1.3
+Camada: Índice das Fotos Aéreas de 2004 - MDC
+Palavras-chave: []
+Resumo: Índice das Fotos Aéreas ano de 2004.
+******************************
+Índice: 1.3.1
+Camada: Índice das Fotos Aéreas de 2004 - escala 1:1000
+Palavras-chave: ['features', 'quadricula_foto_aerea_2004_E1000_v2']
+Resumo: Índice das Fotos Aéreas ano de 2004, escala 1:1000.
+******************************
+Índice: 1.3.2
+Camada: Índice das Fotos Aéreas de 2004 - escala 1:5000
+Palavras-chave: ['quadricula_foto_aerea_2004_E5000_v2', 'features']
+Resumo: Índice das Fotos Aéreas ano de 2004, escala 1:5000.
+******************************
+Índice: 1.4
+Camada: Carta Geotécnica
+Palavras-chave: []
+Resumo: A Carta Geotécnica é uma fonte de informações onde dados como solos, rochas, morfologia do relevo, drenagem e ocorrências especiais como escorregamentos, surgência d'água etc., são representados cartograficamente de modo que, ao serem conjugados à forma de ocupação, possibilitem a interpretação do meio físico e avaliação das potencialidades e limitações ao uso e ocupação do solo.
+******************************
+Índice: 1.4.1
+Camada: Poligonos da Carta Geotécnica
+Palavras-chave: ['v_geotecnica_poligono_gsrv', 'features']
+Resumo: A Carta Geotécnica é uma fonte de informações onde dados como solos, rochas, morfologia do relevo, drenagem e ocorrências especiais como escorregamentos, surgência d'água etc., são representados cartograficamente de modo que, ao serem conjugados à forma de ocupação, possibilitem a interpretação do meio físico e avaliação das potencialidades e limitações ao uso e ocupação do solo.
+******************************
+Índice: 1.4.2
+Camada: Linhas da Carta Geotécnica
+Palavras-chave: ['v_geotecnica_linha_gsrv', 'features']
+Resumo: A Carta Geotécnica é uma fonte de informações onde dados como solos, rochas, morfologia do relevo, drenagem e ocorrências especiais como escorregamentos, surgência d'água etc., são representados cartograficamente de modo que, ao serem conjugados à forma de ocupação, possibilitem a interpretação do meio físico e avaliação das potencialidades e limitações ao uso e ocupação do solo.
+******************************
+Índice: 1.4.3
+Camada: Pontos da Carta Geotécnica
+Palavras-chave: ['features', 'v_geotecnica_ponto_gsrv']
+Resumo: A Carta Geotécnica é uma fonte de informações onde dados como solos, rochas, morfologia do relevo, drenagem e ocorrências especiais como escorregamentos, surgência d'água etc., são representados cartograficamente de modo que, ao serem conjugados à forma de ocupação, possibilitem a interpretação do meio físico e avaliação das potencialidades e limitações ao uso e ocupação do solo.
+******************************
+Índice: 1.5
+Camada: Curva Intermediária
+Palavras-chave: []
+Resumo: Representação das Curvas de níveis intermediárias do Munícipio de São Paulo, conforme a escala e relevo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.5.1
+Camada: Curva Intermediária
+Palavras-chave: ['v_curva_intermediaria_gsrv', 'features']
+Resumo: Representação das Curvas de níveis intermediárias do Munícipio de São Paulo, conforme a escala e relevo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.5.2
+Camada: Curva Intermediária-S
+Palavras-chave: ['features', 'v_curva_intermediaria_s_gsrv']
+Resumo: Segmento de linha usado para cobrir os espaços de texto das cotas altimétricas nas Curvas de Nível Intermediárias do Município de São Paulo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.6
+Camada: Curva Mestra
+Palavras-chave: []
+Resumo: Representação das Curvas Mestras do Município de São Paulo, conforme a escala e relevo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.6.1
+Camada: Curva Mestra
+Palavras-chave: ['v_curva_mestra_gsrv', 'features']
+Resumo: Representação das Curvas Mestras do Município de São Paulo, conforme a escala e relevo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.6.2
+Camada: Curva Mestra-S
+Palavras-chave: ['v_curva_mestra_s_gsrv', 'features']
+Resumo: Segmento de linha usado para cobrir os espaços de texto das cotas altimétricas nas Curvas de Nível Mestras do Município de São Paulo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.7
+Camada: Energia
+Palavras-chave: []
+Resumo: Grupo de camadas contendo Torre de Alta Tensão e Linha de Alta Tensão.
+******************************
+Índice: 1.7.1
+Camada: Linha de Alta Tensão
+Palavras-chave: ['linha_alta_tensao', 'features']
+Resumo: Representação das linhas de alta tensão do Município de São Paulo com base na restituição do MDC. As linhas de alta tensão, ou linhas de transmissão, são componentes do sistema de transmissão de energia elétrica. A vetorização é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.7.2
+Camada: Torre de Alta Tensão
+Palavras-chave: ['torre_alta_tensao', 'features']
+Resumo: Representação das torres de alta tensão do Município de São Paulo. As torres de alta tensão são componentes das linhas aéreas do sistema de transmissão de energia elétrica. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimento aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.8
+Camada: MapaBase Político
+Palavras-chave: []
+Resumo: Mapa base da divisão político-administrativa do Município de São Paulo, contendo subprefeituras, distritos, eixos de logradouros, quadras viárias e hidrografia do Mapeamento Digital da Cidade de São Paulo - MDC.
+******************************
+Índice: 1.9
+Camada: MapaBase Topográfico
+Palavras-chave: []
+Resumo: Mapa base de representação de relevo e topografia do Município de São Paulo, elaborado a partir de curvas de nível e hidrografia do Mapeamento Digital - MDC. A base cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC.
+******************************
+Índice: 1.10
+Camada: Perímetro Zona de Uso - Revogado - Lei 13.885/04
+Palavras-chave: []
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.10.1
+Camada: Zona Urbana - Revogado - Lei 13.885/04
+Palavras-chave: ['zoneamento_2004_urbana', 'features']
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.10.2
+Camada: Zona Ambiental - Revogado - Lei 13.885/04
+Palavras-chave: ['features', 'zoneamento_2004_ambiental']
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.10.3
+Camada: Zona Especial- Revogado - Lei 13.885/04
+Palavras-chave: ['features', 'zoneamento_2004_especial']
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.10.4
+Camada: Zona Verde - Revogado - Lei 13.885/04
+Palavras-chave: ['zoneamento_2004_verde', 'features']
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.10.5
+Camada: Zona Operação Urbana - Revogado - Lei 13.885/04
+Palavras-chave: ['zoneamento_2004_operacaourbana', 'features']
+Resumo: A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os perímetros de zona de uso foram vetorizados perante o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.11
+Camada: Hillshade_MDC_2004
+Palavras-chave: ['WCS', 'ImagePyramid', 'Hillshade_MDC_2004']
+Resumo: Hillshade do MDC 2004
+******************************
+Índice: 1.12
+Camada: Selo
+Palavras-chave: ['features', 'acessibilidade_smped']
+Resumo: Estabelecimentos com selo de acessibilidade o qual atesta que a edificação é adequada para pessoas com deficiência, conforme o estabelecido no Decreto 45.122/2004. O Selo de Acessibilidade é emitido pela Secretaria Municipal de Pessoa com Deficiência, por meio da Comissão Permanente de Acessibilidade - CPA. http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/pessoa_com_deficiencia/DECRETO%2045122.pdf. 
+Para essa camada, foi adotado o novo símbolo de acessibilidade criado pela ONU. Saiba mais aqui: http://www.un.org/webaccessibility/logo.shtml
+******************************
+Índice: 1.13
+Camada: Acidentes
+Palavras-chave: ['acidente_cet', 'features']
+Resumo: Acidentes de trânsito levantados pela CET.
+******************************
+Índice: 1.14
+Camada: Área cedida
+Palavras-chave: ['area_cedida', 'features']
+Resumo: Cessões de áreas públicas para utilização por órgãos da Prefeitura Municipal de São Paulo, por outros órgãos públicos ou por particulares. Os documentos que formalizam a cessão de área (termo e planta) estão disponíveis para download através do botão 'pesquisar' na aba 'área pública'. Os polígonos são desenhados apenas com a finalidade de cadastro, com base e adequação ao MDC.
+******************************
+Índice: 1.15
+Camada: Municípios da RMSP (Região Metropolitana de São Paulo)
+Palavras-chave: ['area_contexto_v2', 'features']
+Resumo: Malha de municípios do Estado de São Paulo e outros polígonos de contextualização regional usados na produção de mapas base do Sistema de Informações Geográficas do Município de São Paulo (SIG-SP). Limites do município de São Paulo e de municípios adjacentes foram ajustados ao limite municipal do Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.16
+Camada: Área de Risco Geológico
+Palavras-chave: ['features', 'v_risco_geologico_gsrv']
+Resumo: Polígonos que delimitam as áreas de risco geológico em assentamentos precários, sujeitas a deslizamentos e solapamento de margem de córrego no Município de São Paulo levantadas pelo IPT/SMSP entre 2009 e 2011.
+******************************
+Índice: 1.17
+Camada: Arruamento Regularizado - AU
+Palavras-chave: ['arruamento_regularizado', 'features']
+Resumo: Perímetro de arruamento e loteamento aprovado c/ auto ou despacho de aceitação técnica ou em processo de aprovação. A delimitação vetorial do presente arquivo foi executada tendo como base cartográfica o Geolog. O Geolog é resultado do Mapeamento Planimétrico Digital da Cidade de São Paulo nas escalas 1:10.000 e 1:5.000.
+******************************
+Índice: 1.18
+Camada: Arborização viária
+Palavras-chave: ['v_arvore_gsrv', 'features']
+Resumo: Indivíduos arbóreos localizados no sistema viário do município de São Paulo, abrangendo a totalidade da área urbanizada. Árvores situadas ao longo das calçadas, canteiros centrais e praças.
+******************************
+Índice: 1.19
+Camada: Bacia Hidrográfica
+Palavras-chave: ['bacia_hidrografica', 'features']
+Resumo: Polígonos representando as bacias, microbacias e áreas de contribuição direta de escoamento difuso.
+******************************
+Índice: 1.20
+Camada: Cartórios de Registro de Imóveis
+Palavras-chave: ['v_cartorio_registro_imovel', 'features']
+Resumo: Circunscrições imobiliárias dos cartórios de registro de imóveis da Cidade de São Paulo, elaborada a partir dos marcos territoriais da Lei Estadual nº 8.092 de 28/02/64 e alterações posteriores.
+******************************
+Índice: 1.21
+Camada: Centro de Referência de Assistência Social
+Palavras-chave: ['centro_referencia_assistencia_social', 'features']
+Resumo: O Centro de Referência de Assistência Social – CRAS é uma unidade pública estatal de base territorial, localizada em áreas de vulnerabilidade social. Executa serviços de proteção social básica, organiza e coordena a rede de serviços socioassistenciais, locais da política de assistência social. Dada a sua capilaridade nos territórios se caracteriza como principal porta de entrada dos usuários à rede de proteção social do Sistema Único de Assistência Social – SUAS.
+******************************
+Índice: 1.22
+Camada: FabLab - Grande Laboratório
+Palavras-chave: ['conectividade_fablab_grande', 'features']
+Resumo: Rede de grandes laboratórios públicos de fabricação digital com impressoras 3D, cortadoras a laser, fresadoras (cortes ou desbastes de diversos materiais) e outros equipamentos. Também oferecem cursos de capacitação e qualificação.
+******************************
+Índice: 1.23
+Camada: FabLab - Pequeno Laboratório
+Palavras-chave: ['conectividade_fablab_pequeno', 'features']
+Resumo: Rede de pequenos laboratórios públicos de fabricação digital com impressoras 3D, cortadoras a laser, fresadoras (cortes ou desbastes de diversos materiais) e outros equipamentos. Também oferecem cursos de capacitação e qualificação.
+******************************
+Índice: 1.24
+Camada: Telecentro
+Palavras-chave: ['features', 'conectividade_telecentro']
+Resumo: Rede pública para acesso a microcomputadores e rede internet. Aberto ao público das 9h às 18h (Seg. a Sex.) e 9h às 13h (Sábados).
+******************************
+Índice: 1.25
+Camada: Conjunto - CJ
+Palavras-chave: ['features', 'conjunto_v3']
+Resumo: CJ - Perímetro que representa a planta do processo de parcelamento denominada Conjunto . Os perímetros não possuem precisão. Para uso judicial orienta-se solicitar a planta, na Supervisão de Informação da Secretaria de Licenciamento.
+******************************
+Índice: 1.26
+Camada: Corredores
+Palavras-chave: ['corredor_onibus', 'features']
+Resumo: Corredores de Ônibus da cidade de São Paulo de acordo com levantamento realizado pelo Planejamento da SPTrans. Situam-se à esquerda da pista e possuem paradas maiores. Táxis podem circular de 2ª a 6ª, no horário das 9h00 às 16h00, com passageiro, de 2ª a 6ª, no horário das 20h00 às 06h00 do dia seguinte, com ou sem passageiro e aos sábados, domingos e feriados por período integral, com ou sem passageiro.
+******************************
+Índice: 1.27
+Camada: Croqui Patrimonial
+Palavras-chave: ['croqui_patrimonial', 'features']
+Resumo: Vetorização das áreas de croquis com áreas públicas (Uso Comum / Uso Dominial / Uso Especial / faixas de servidão / áreas cedidas à PMSP).
+******************************
+Índice: 1.28
+Camada: Declividade
+Palavras-chave: ['declividade', 'features']
+Resumo: Inclinação da superfície do terreno em relação à horizontal obtida com base no processamento das informações de altimetria.
+******************************
+Índice: 1.29
+Camada: Decretos de Utilidade Pública e Interesse Social
+Palavras-chave: ['features', 'decreto_utilidade_publica_interesse_social']
+Resumo: Decretos de Interesse Social dos últimos 2 anos e Decretos de Utilidade Pública dos últimos 5 anos.
+******************************
+Índice: 1.30
+Camada: Desmembramento de Gleba - DG
+Palavras-chave: ['desmembramento_gleba_v3', 'features']
+Resumo: DG - Perímetro que representa a planta do processo de parcelamento denominada Desmembramento de Gleba.  Os perímetros não possuem precisão. Para uso judicial orienta-se solicitar a planta, na Supervisão de Informação da Secretaria de Licenciamento.
+******************************
+Índice: 1.31
+Camada: Diretriz - DZ
+Palavras-chave: ['diretriz_v3', 'features']
+Resumo: DZ - Polígonos que delimitam a área abrangente do processo de parcelamento do solo de acordo com sua Diretriz (DZ). A Diretriz (DZ) define as diretrizes urbanísticas básicas para a implantação do projeto de parcelamento do solo.
+******************************
+Índice: 1.32
+Camada: Distrito
+Palavras-chave: ['v_distrito_municipal_gsrv', 'features']
+Resumo: Os distritos foram criados mediante a Lei nº 11.220/1992. Seus limites foram estabelecidos a partir de estudos elaborados por diversos órgãos do Executivo municipal, tendo em conta fatores físico-territoriais, demográficos, urbanísticos, econômicos e político-administrativos.
+******************************
+Índice: 1.33
+Camada: Drenagem
+Palavras-chave: ['drenagem', 'features']
+Resumo: Linhas definidas a partir dos vetores provenientes do MDC, da base do Plano Diretor de Drenagem, e das canalizações realizadas após o ano de 2004 até a data atual, com base em informações disponíveis na Secretaria Municipal de Infraestrutura Urbana.
+******************************
+Índice: 1.34
+Camada: Edificações 2D
+Palavras-chave: ['edificacao', 'features']
+Resumo: As Edificações são polígonos fechados, vetorizados no processo de restituição a partir da observação, por exemplo, de topos de telhados de casas ou edifícios. Nas escalas 1:1.000 para área urbanizada e 1:5.000 nas áreas com baixa ou nenhuma ocupação. Processo feito por restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000.
+******************************
+Índice: 1.35
+Camada: Edificações 3D
+Palavras-chave: ['edificacao_pseudo3d', 'features']
+Resumo: As Edificações são polígonos fechados, vetorizados no processo de restituição a partir da observação, por exemplo, de topos de telhados de casas ou edifícios. A camada de Edificações 3D foi obtida por meio da estilização da camada estabelecendo-se valores médios para as edificações. Nas escalas 1:1.000 para área urbanizada e 1:5.000 nas áreas com baixa ou nenhuma ocupação. Processo feito por restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000.
+******************************
+Índice: 1.36
+Camada: Eixos Ativados por Decreto
+Palavras-chave: ['eixo_ativado_decreto', 'features']
+Resumo: Eixos de estruturação previstos no PDE ativados por decretos posteriormente.
+******************************
+Índice: 1.37
+Camada: Assistência Social
+Palavras-chave: ['features', 'equipamento_assistencia_social_v2']
+Resumo: Cadastro de Equipamentos da Secretaria de Assistência e Desenvolvimento Social do Município de São Paulo.
+******************************
+Índice: 1.38
+Camada: Bom Prato
+Palavras-chave: ['features', 'v_equipamento_bom_prato_gs']
+Resumo: Identificação dos pontos georreferenciados por SMDU/Deinfo de restaurantes populares.
+******************************
+Índice: 1.39
+Camada: Bombeiros
+Palavras-chave: ['equipamento_bombeiros_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados de Grupamentos de Bombeiros.
+******************************
+Índice: 1.40
+Camada: Casa Mediação
+Palavras-chave: ['features', 'equipamento_casas_mediacao_v2']
+Resumo: Identificação dos pontos georreferenciados de Casa Mediação de Conflitos.
+******************************
+Índice: 1.41
+Camada: CATe(Central de Apoio ao trabalhador e Empreendedorismo)
+Palavras-chave: ['features', 'equipamento_cat']
+Resumo: O CATe é uma rede de unidades direcionadas ao atendimento dos cidadãos que buscam inserção no mercado de trabalho.
+******************************
+Índice: 1.42
+Camada: Animais
+Palavras-chave: ['features', 'equipamento_ccz']
+Resumo: Centro de Controle de Zoonozes (CCZ) e hospitais veterinários públicos ou conveniados com a PMSP.
+******************************
+Índice: 1.43
+Camada: Cemitério
+Palavras-chave: ['features', 'equipamento_cemiterio_v2']
+Resumo: Perímetros dos Cemitérios públicos e privados e Serviços Funerários.
+******************************
+Índice: 1.44
+Camada: Central de Triagem - cooperativa
+Palavras-chave: ['features', 'equipamento_central_triagem_cooperativa']
+Resumo: Atualmente 93 distritos são contemplados pela Coleta de Materiais Recicláveis realizada pelas Centrais e pelas Concessionárias, ficando a sua coordenação sob a responsabilidade da Secretaria Municipal de Serviços, por intermédio da Autoridade Municipal de Limpeza Urbana – AMLURB, estabelecendo normas e procedimentos para sua implementação, gerenciamento, fiscalização e controle. Das 22 organizações que mantêm uma relação formal com a Prefeitura de São Paulo, 21 cooperativas ou associações que desenvolvem atividades de coleta, triagem e comercialização de RSD Secos, e uma desenvolve atividades de recuperação de resíduos eletroeletrônicos (REE).
+******************************
+Índice: 1.45
+Camada: Central de Triagem - mecanizada
+Palavras-chave: ['equipamento_central_triagem_mecanizada', 'features']
+Resumo: As centrais mecanizadas de triagem possuem capacidade individual para processar até 250 toneladas diárias de resíduos. Esse tipo de equipamento, munido de leitores óticos, separam os materiais por tipo e cor. Tais centrais apresentam, ainda, esteiras automatizadas e um dispositivo chamado Trommel, que executa a separação dos resíduos por dimensão. Ao final do processo, materiais como plásticos e papéis já saem prensados para a comercialização.
+******************************
+Índice: 1.46
+Camada: Conselho Tutelar
+Palavras-chave: ['equipamento_conselho_tutelar', 'features']
+Resumo: Identificação dos pontos georreferenciados de Conselho Tutelar.
+******************************
+Índice: 1.47
+Camada: Bibliotecas
+Palavras-chave: ['features', 'equipamento_cultura_bibliotecas_v3']
+Resumo: Identificação dos pontos georreferenciados de Bibliotecas.
+******************************
+Índice: 1.48
+Camada: Espaços Culturais
+Palavras-chave: ['features', 'equipamento_cultura_espacos_culturais_v3']
+Resumo: Identificação dos pontos georreferenciados de Espaços Culturais.
+******************************
+Índice: 1.49
+Camada: Museus
+Palavras-chave: ['equipamento_cultura_museus_v3', 'features']
+Resumo: Identificação dos pontos georreferenciados de Museus.
+******************************
+Índice: 1.50
+Camada: Cultura - Outros
+Palavras-chave: ['features', 'equipamento_cultura_outros_v3']
+Resumo: Identificação dos pontos georreferenciados de outros equipamentos de cultura.
+******************************
+Índice: 1.51
+Camada: Teatro/Cinema/Shows
+Palavras-chave: ['equipamento_cultura_teatro_cinema_show_v3', 'features']
+Resumo: Identificação dos pontos georreferenciados de salas de Teatro, salas de Cinema, Show e Concertos.
+******************************
+Índice: 1.52
+Camada: Ecoponto
+Palavras-chave: ['features', 'equipamento_ecoponto']
+Resumo: Ecopontos são locais de entrega voluntária de pequenos volumes de entulho (até 1 m³), grandes objetos (móveis, restos de poda de árvores etc.) e resíduos recicláveis. A população pode dispor o material gratuitamente em caçambas distintas para cada tipo de resíduo.
+******************************
+Índice: 1.53
+Camada: CEU(Centro Educacional Unificado)
+Palavras-chave: ['features', 'equipamento_educacao_ceu_v2']
+Resumo: Unidades de ensino CEU(Centro Educacional Unificado).
+******************************
+Índice: 1.54
+Camada: Ensino técnico público
+Palavras-chave: ['equipamento_educacao_ensino_tecnico_rede_publica_v2', 'features']
+Resumo: Unidades de ensino técnico público.
+******************************
+Índice: 1.55
+Camada: Educação Infantil
+Palavras-chave: ['equipamento_educacao_infantil_rede_publica_v2', 'features']
+Resumo: Unidades de ensino públicas de Educação Infantil.
+******************************
+Índice: 1.56
+Camada: Educação - Outros
+Palavras-chave: ['equipamento_educacao_outros_v2', 'features']
+Resumo: Outras unidades de ensino.
+******************************
+Índice: 1.57
+Camada: Pronatec(Programa Nacional de Acesso ao Ensino Técnico e Emprego)
+Palavras-chave: ['equipamento_educacao_pronatec', 'features']
+Resumo: Unidades de ensino do Programa Nacional de Acesso ao Ensino Técnico e Emprego.
+******************************
+Índice: 1.58
+Camada: Rede Privada
+Palavras-chave: ['features', 'equipamento_educacao_rede_privada_v2']
+Resumo: Unidades de ensino da rede privada.
+******************************
+Índice: 1.59
+Camada: Ensino Fundamental e Médio
+Palavras-chave: ['features', 'equipamento_educacao_rede_publica_v2']
+Resumo: Unidades de ensino fundamental e médio.
+******************************
+Índice: 1.60
+Camada: Senai / Sesi / Senac
+Palavras-chave: ['equipamento_educacao_senai_sesi_senac_v2', 'features']
+Resumo: Unidades de ensino Senai / Sesi / Senac.
+******************************
+Índice: 1.61
+Camada: Entidades Criança e Adolescente
+Palavras-chave: ['entidade_crianca_adolescente', 'features']
+Resumo: Entidades registradas no Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+******************************
+Índice: 1.62
+Camada: Centro Esportivo
+Palavras-chave: ['features', 'equipamento_esporte_centro_esportivo_v2']
+Resumo: Identificação dos pontos georreferenciados de Centro Esportivo.
+******************************
+Índice: 1.63
+Camada: Clubes
+Palavras-chave: ['equipamento_esporte_clubes_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados de clubes.
+******************************
+Índice: 1.64
+Camada: Clubes da Comunidade
+Palavras-chave: ['features', 'equipamento_esporte_clubesdacomunidade']
+Resumo: Identificação dos pontos georreferenciados de clubes da comunidade.
+******************************
+Índice: 1.65
+Camada: Estádios
+Palavras-chave: ['equipamento_esporte_estadios', 'features']
+Resumo: Identificação dos pontos georreferenciados de Estádios.
+******************************
+Índice: 1.66
+Camada: Esporte - Outros
+Palavras-chave: ['equipamento_esporte_outros_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados de outros equipamentos de esporte.
+******************************
+Índice: 1.67
+Camada: Feira livre
+Palavras-chave: ['equipamento_feira_livre_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados por SMDU/Deinfo. Os dados não mostram o número de barracas nem a extensão ou localização exata da feira livre.
+******************************
+Índice: 1.68
+Camada: Guarda Civil Metropolitana
+Palavras-chave: ['equipamento_guarda_civil_metropolitana_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados dos comandos e inspetorias da Guarda Civil Metropolitana.
+******************************
+Índice: 1.69
+Camada: Mercados Municipais
+Palavras-chave: ['equipamento_mercados_municipais_v2', 'features']
+Resumo: Identificação dos pontos georreferenciados de Mercados Municipais.
+******************************
+Índice: 1.70
+Camada: Polícia Civil
+Palavras-chave: ['equipamento_policia_civil_v2', 'features']
+Resumo: Dados de unidades da Polícia Civil, fornecidas pela Secretaria Estadual de Segurança Pública.
+******************************
+Índice: 1.71
+Camada: Polícia Militar
+Palavras-chave: ['features', 'equipamento_policia_militar_v2']
+Resumo: Dados de unidades da Polícia Militar, fornecidos pela Secretaria Estadual de Segurança Pública.
+******************************
+Índice: 1.72
+Camada: Wi-Fi Livre
+Palavras-chave: ['praca_wi-fi', 'features']
+Resumo: Pontos de acesso livre da rede sem fios - WIFI em praças da cidade.
+******************************
+Índice: 1.73
+Camada: Rede de Serviços
+Palavras-chave: ['features', 'v_equipamento_rede_servicos']
+Resumo: Identificação dos pontos georreferenciados de Rede de Serviços relativos a Pessoa desaparecida, Imigrante, LGBTI, Pessoa idosa, Ouvidoria DH, Igualdade Social e Mulher.
+******************************
+Índice: 1.74
+Camada: Sacolões
+Palavras-chave: ['features', 'equipamento_sacoloes_v2']
+Resumo: Identificação dos pontos georreferenciados de Sacolões.
+******************************
+Índice: 1.75
+Camada: Ambulatórios especializados
+Palavras-chave: ['equipamento_saude_ambulatorios_especializados_v2', 'features']
+Resumo: Ambulatórios Especializados do cadastro de estabelecimentos de saúde municipais, estaduais, federais e privados da Cidade de São Paulo. Atende pacientes encaminhados por outros estabelecimentos e que requerem cuidados em áreas específicas.
+******************************
+Índice: 1.76
+Camada: Hospital
+Palavras-chave: ['equipamento_saude_hospital_v2', 'features']
+Resumo: Hospitais do cadastro de estabelecimentos de saúde municipais, estaduais, federais e privados da Cidade de São Paulo. Estabelecimentos de saúde com capacidade de internamento (leitos) e que realizam procedimentos de média e alta complexidade.
+******************************
+Índice: 1.77
+Camada: Saúde - Outros
+Palavras-chave: ['features', 'equipamento_saude_outros_v2']
+Resumo: Estabelecimentos e serviços especializados do cadastro de estabelecimentos de saúde municipais, estaduais, federais e privados da Cidade de São Paulo.
+******************************
+Índice: 1.78
+Camada: Saúde mental
+Palavras-chave: ['features', 'equipamento_saude_saude_mental_v2']
+Resumo: Serviço de atendimento aos pacientes portadores de transtornos mentais do Cadastro de estabelecimentos de saúde municipais, estaduais e privados.
+******************************
+Índice: 1.79
+Camada: UBS/Posto/Centro de Saúde
+Palavras-chave: ['equipamento_saude_ubs_posto_centro_v2', 'features']
+Resumo: UBS, Postos ou Centros de Saúde do Cadastro de estabelecimentos de saúde municipais, estaduais e privados.
+******************************
+Índice: 1.80
+Camada: Unidades DST/AIDS
+Palavras-chave: ['equipamento_saude_unidades_dst-aids_v2', 'features']
+Resumo: Unidades de Prevenção, diagnóstico e tratamento de pessoas com DST/HIV/AIDS do Cadastro de estabelecimentos de saúde municipais, estaduais e privados.
+******************************
+Índice: 1.81
+Camada: Urgência / Emergência
+Palavras-chave: ['equipamento_saude_urgencia_emergencia_v2', 'features']
+Resumo: Unidades de atendimento de Urgência / Emergência do Cadastro de estabelecimentos de saúde municipais, estaduais e privados. Atende paciente que requer cuidado imediato e pode resultar em internação ou não.
+******************************
+Índice: 1.82
+Camada: Vigilância em saúde
+Palavras-chave: ['equipamento_saude_vigilancia_saude_v2', 'features']
+Resumo: Unidades de Vigilância em saúde do Cadastro de estabelecimentos de saúde municipais, estaduais e privados. Fiscaliza a comercialização de alimentos, medicamentos e serviços de saúde.
+******************************
+Índice: 1.83
+Camada: Shopping Center
+Palavras-chave: ['features', 'equipamento_shopping_center']
+Resumo: Identificação das áreas georreferenciadas de Shopping Center.
+******************************
+Índice: 1.84
+Camada: Metrô - Estação
+Palavras-chave: ['v_estacao_metro_trem_gsrv', 'features']
+Resumo: Estações ativas da Companhia do Metropolitano de São Paulo - Metrô.
+******************************
+Índice: 1.85
+Camada: Trem Metropolitano - Estação
+Palavras-chave: ['estacao_trem_v2', 'features']
+Resumo: Estações de trem da Companhia de Trens Metropolitanos (CPTM).
+******************************
+Índice: 1.86
+Camada: Faixas exclusivas
+Palavras-chave: ['faixa_onibus_v2', 'features']
+Resumo: Faixas de ônibus da Cidade de São Paulo de acordo com o levantamento realizado pela CET. As faixas situam-se à direita ou à esquerda da pista. Durante seu funcionamento, que muda de acordo com o local, fica proibida a circulação de carros. Táxis com passageiro podem circular em qualquer horário e dia da semana.
+******************************
+Índice: 1.87
+Camada: Ferrovia
+Palavras-chave: ['features', 'ferrovia_mdc']
+Resumo: Linhas férreas obtidas por restituição fotogramétrica, executado por processo licitatório no período de 2004 a 2007 pelas empresas: Aeroimagem, Aerocarta, Engefoto e Esteio.
+******************************
+Índice: 1.88
+Camada: Ilha
+Palavras-chave: ['hidrografia_ilha', 'features']
+Resumo: Essa camada mostra as ilhas do sistema hídrico.
+******************************
+Índice: 1.89
+Camada: Nível Represa 2004
+Palavras-chave: ['v_hidrografia_restituida_gsrv', 'features']
+Resumo: Representação em linhas do nível da represa em 2004 das represas Billings e Guarapiranga do Município de São Paulo, obtidos por restituição fotogramétrica, executado por processo licitatório no período de 2004 a 2007 pelas empresas: Aeroimagem, Aerocarta, Engefoto e Esteio.
+******************************
+Índice: 1.90
+Camada: Pontos de iluminação pública
+Palavras-chave: ['features', 'iluminacao_publica']
+Resumo: Postes de iluminação pública localizados no sistema viário, praças, áreas públicas municipais, parques municipais, áreas internas de próprios municipais. A quantidade de e o tipo de iluminação são baseadas em informações de levantamento cadastral realizado pela Secretaria de Serviços através do Departamento de Iluminação Pública - ILUME.
+******************************
+Índice: 1.91
+Camada: Imóveis Notificados - Função Social
+Palavras-chave: ['imovel_notificado', 'features']
+Resumo: Imóveis notificados para cumprimento da função social.
+******************************
+Índice: 1.92
+Camada: Metrô - Linha
+Palavras-chave: ['features', 'linha_metro_v3']
+Resumo: Linhas ativas da Companhia do Metropolitano de São Paulo - Metrô.
+******************************
+Índice: 1.93
+Camada: Trem Metropolitano - Linha
+Palavras-chave: ['linha_trem_v2', 'features']
+Resumo: Linhas de trem da Companhia de Trens Metropolitanos (CPTM).
+******************************
+Índice: 1.94
+Camada: lote_cidadao
+Palavras-chave: ['lote_cidadao', 'features']
+Resumo: Lotes fiscais com informações de zoneamento. A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os valores de zoneamento, estabelecido na Lei nº 13.885/2004, foram agregados as feições de lotes através dos números de setor, quadra e lote , tendo como base cartográfica o Mapa Digital da Cidade e as informações fiscais da Secretaria de Finanças.
+******************************
+Índice: 1.95
+Camada: Área de Proteção aos Mananciais
+Palavras-chave: ['manancial', 'features']
+Resumo: Área de Proteção e Recuperação dos Mananciais - Billings (Lei nº 13.579 - 13/07/2009), Guarapiranga (APRM-G) (Lei nº 12.233 - 16/01/2006) e Cantareira.
+******************************
+Índice: 1.96
+Camada: Marco Geodésico
+Palavras-chave: ['features', 'marco']
+Resumo: Localização dos marcos geodésicos do Município de São Paulo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.97
+Camada: Massa Dágua
+Palavras-chave: ['features', 'massa_d_agua']
+Resumo: Polígonos que representam feições de Rios, córregos e lagos do Município de São Paulo. As massas d’água foram integralmente geradas a partir dos traçados no MDC. Em seguida os polígonos foram comparados com arquivo vetorial proveniente da SMDU (ver mapa no Anexo 2), disponibilizados para a elaboração do PMAPSP, de modo a identificar eventuais omissões.
+******************************
+Índice: 1.98
+Camada: Obras de Arte
+Palavras-chave: ['features', 'obra_arte']
+Resumo: Essa camada mostra as obras do sistema viário que exigem maior especialização construtiva, como pontes, viadutos, túneis etc.
+******************************
+Índice: 1.99
+Camada: Operação Urbana
+Palavras-chave: ['features', 'operacao_urbana']
+Resumo: As Operações Urbanas visam promover melhorias em regiões pré - determinadas da cidade através de parcerias entre o Poder Público e a iniciativa privada. Cada área, objeto de Operação Urbana, tem uma lei específica estabelecendo as metas a serem cumpridas, bem como os mecanismos de incentivos e benefícios. O perímetro de cada Operação Urbana é favorecido por leis que prevêem flexibilidade quanto aos limites estabelecidos pela Lei de Zoneamento, mediante o pagamento de uma contrapartida financeira. Este dinheiro é pago à Prefeitura, e só pode ser usado em melhorias urbanas na própria região. Uma lei de Operação Urbana pode conter concessões não onerosas, entendidas como um estímulo adicional à ocorrência de investimentos na área.
+******************************
+Índice: 1.100
+Camada: Outorga Onerosa
+Palavras-chave: ['outorga_onerosa', 'features']
+Resumo: Processos de aprovação de edificação nova/reforma com Outorga Onerosa do Direito de Construir.
+******************************
+Índice: 1.101
+Camada: Parques Municipais Urbanos e Lineares
+Palavras-chave: ['features', 'parque_municipal']
+Resumo: Parques municipais existentes, que atendem a pelo menos duas das seguintes condições: a) Possui decreto de criação; b) Administrado por SVMA; c) Projeto desenvolvido por SVMA.
+******************************
+Índice: 1.102
+Camada: Passagem - PS
+Palavras-chave: ['features', 'passagem_v3']
+Resumo: Polígonos que delimitam a área abrangente do processo de parcelamento do solo referente à Passagem(PS), instrumento utilizado até a década de 1970. Passagem consiste em servidão de passagem e por isso não é via pública. A delimitação vetorial do presente arquivo foi executada tendo como base cartográfica o Geolog. O Geolog é resultado do Mapeamento Planimétrico Digital da Cidade de São Paulo nas escalas 1:10.000 e 1:5.000.
+******************************
+Índice: 1.103
+Camada: Acervo Tombado
+Palavras-chave: ['features', 'v_acervo_gs']
+Resumo: Acervos culturais e/ou artísticos protegidos por legislação de preservação.
+******************************
+Índice: 1.104
+Camada: Áreas de Interesse Arqueológico
+Palavras-chave: ['v_area_interesse_arqueologico_gs', 'features']
+Resumo: Áreas tombadas pelo CONPRESP, ou envoltórias, cuja resolução se refere à arqueologia.
+******************************
+Índice: 1.105
+Camada: Área Envoltória CONDEPHAAT
+Palavras-chave: ['v_area_envoltoria_condephaat_gs', 'features']
+Resumo: Área envoltória estabelecida pelo CONDEPHAAT.
+******************************
+Índice: 1.106
+Camada: Área Envoltória CONPRESP
+Palavras-chave: ['v_area_envoltoria_conpresp_gs', 'features']
+Resumo: Área envoltória estabelecida pelo CONPRESP.
+******************************
+Índice: 1.107
+Camada: Área Envoltória IPHAN
+Palavras-chave: ['v_area_envoltoria_iphan_gs', 'features']
+Resumo: Área envoltória estabelecida pelo IPHAN
+******************************
+Índice: 1.108
+Camada: Bens de Interesse Arqueológico
+Palavras-chave: ['v_bem_interesse_arqueologico_gs', 'features']
+Resumo: Locais tombados pelo CONPRESP, cuja resolução se refere à arqueologia.
+******************************
+Índice: 1.109
+Camada: Bem Registrado
+Palavras-chave: ['v_bem_registrado_gs', 'features']
+Resumo: Bem registrado como patrimônio imaterial.
+******************************
+Índice: 1.110
+Camada: Bem Tombado e/ou em Processo de Tombamento
+Palavras-chave: ['features', 'v_bem_tombado_area_gs']
+Resumo: Bens protegidos por legislação de preservação.
+******************************
+Índice: 1.111
+Camada: Lugar de Interesse Paisagístico Ambiental
+Palavras-chave: ['lugar_interesse_paisagistico_ambiental', 'features']
+Resumo: Áreas tombadas como lugar de interesse paisagístico e ambiental.
+******************************
+Índice: 1.112
+Camada: Inventário Memória Paulistana
+Palavras-chave: ['features', 'inventario_memoria_paulistana']
+Resumo: Locais que receberam placas do Inventário da Memória Paulistana.
+******************************
+Índice: 1.113
+Camada: Monumentos
+Palavras-chave: ['monumento', 'features']
+Resumo: Obras de Arte e Monumentos em Espaços Públicos.
+******************************
+Índice: 1.114
+Camada: Ocorrências Arqueológicas
+Palavras-chave: ['v_ocorrencia_arqueologica_gs', 'features']
+Resumo: Locais com manifestações arqueológicas diversas não configuradas como sítios arqueológicos.
+******************************
+Índice: 1.115
+Camada: Selo de Valor Cultural
+Palavras-chave: ['v_selo_valor_cultural_gs', 'features']
+Resumo: Referências culturais em virtude das atividades neles desenvolvidas.
+******************************
+Índice: 1.116
+Camada: Sítios Arqueológicos
+Palavras-chave: ['features', 'v_sitio_arqueologico_gs']
+Resumo: Locais onde foram encontrados vestígios de ocupação humana passíveis de contextualização pela Arqueologia.
+******************************
+Índice: 1.117
+Camada: Eixos de Estruturação da Transformação Urbana (3)
+Palavras-chave: ['features', 'pde2014_v_eetr_03_map_v2']
+Resumo: Eixos de Estruturação da Transformação Urbana contém as áreas de influência definidas por faixas de influências do sistema estrutural de transporte coletivo de média e alta capacidade que atravessam as macroáreas que integram a zona urbana do Município considerando as linhas ativas ou em planejamento do trem, metrô, monotrilho, VLT (Veículo Leve sobre Trilhos), VLP (Veículo Leve sobre Pneus) e corredores de ônibus municipais e intermunicipais de média capacidade com operação em faixa exclusiva à esquerda do tráfego geral.
+******************************
+Índice: 1.118
+Camada: Eixos Previstos (3A)
+Palavras-chave: ['pde2014_v_eixo_prv_03a_map_v2', 'features']
+Resumo: Eixos de Estruturação da Transformação Urbana previstos contém as áreas de influência definidas por faixas de influências do sistema estrutural de transporte coletivo de média e alta capacidade que atravessam as macroáreas que integram a zona urbana do Município considerando as linhas ativas ou em planejamento do trem, metrô, monotrilho, VLT (Veículo Leve sobre Trilhos), VLP (Veículo Leve sobre Pneus) e corredores de ônibus municipais e intermunicipais de média capacidade com operação em faixa exclusiva à esquerda do tráfego geral.
+******************************
+Índice: 1.119
+Camada: Setores da Macroárea de Estruturação Metropolitana (2A)
+Palavras-chave: ['features', 'pde2014_v_maem_02a_map_v2']
+Resumo: Setores da Macroárea de Estruturação Metropolitana que compõem os Eixos de Estruturação da Transformação Urbana. Os eixos de estruturação da transformação urbana, definidos pelos elementos estruturais dos sistemas de transporte coletivo de média e alta capacidade, existentes e planejados, determinam áreas de influência potencialmente aptas ao adensamento construtivo e populacional e ao uso misto entre usos residenciais e não residenciais.
+******************************
+Índice: 1.120
+Camada: Macroárea (2)
+Palavras-chave: ['pde2014_v_mcrar_02_map_v2', 'features']
+Resumo: Macroáreas subdivididas em Macroárea de Urbanização Consolidada, Macroárea de Estruturação Metropolitana,Macroárea de Qualificação da Urbanização, Macroárea de Redução da Vulnerabilidade,Macroárea de Redução da Vulnerabilidade Urbana e Recuperação Ambiental, Macroárea de Controle e Qualificação Urbana e Ambiental, Macroárea de Contenção Urbana e Uso Sustentável,Macroárea de Preservação de Ecossistemas Naturais.
+******************************
+Índice: 1.121
+Camada: Macrozona (1)
+Palavras-chave: ['features', 'pde2014_v_mcrz_01_map_v2']
+Resumo: Macrozona é uma divisão territorial do Município, de acordo com critérios pré-estabelecidos, que considera as características ambientais e geológicas relacionadas à aptidão para a urbanização. A Lei nº 16050/14 aprova a política de Desenvolvimento Urbano e o Plano Diretor Estratégico do Município de São Paulo/2014 e revoga a Lei nº 13.430/2002; dispõe sobre a Política de Desenvolvimento Urbano, Sistema de Planejamento Urbano e Plano Diretor Estratégico do Município de São Paulo.
+******************************
+Índice: 1.122
+Camada: Áreas Verdes (5)
+Palavras-chave: ['pde2014_v_parq_pde_map', 'features']
+Resumo: Rede Hídrica Ambiental e Sistema de Áreas Protegidas, Áreas Verdes e Espaços Livres:
+O Sistema de Áreas Protegidas, Áreas Verdes e Espaços Livres é constituído pelo conjunto de áreas enquadradas nas diversas categorias protegidas pela legislação ambiental, de terras indígenas, de áreas prestadoras de serviços ambientais, das diversas tipologias de parques de logradouros públicos, de espaços vegetados e de espaços não ocupados por edificação coberta, de propriedade pública ou particular.
+******************************
+Índice: 1.123
+Camada: Perímetro de Incentivo (11)
+Palavras-chave: ['pde2014_v_prmr_ict_11_map_v2', 'features']
+Resumo: Áreas localizadas em regiões com predominância de uso residencial, servidas por importantes eixos viários e de transporte coletivo, nas quais aplicam-se incentivos urbanísticos e fiscais para estimular a instalação de usos não residenciais.
+******************************
+Índice: 1.124
+Camada: ZEIS 1 (4)
+Palavras-chave: ['pde2014_v_zeis_04_map_v2', 'features']
+Resumo: ZEIS 1 são áreas caracterizadas pela presença de favelas, loteamentos irregulares e empreendimentos habitacionais de interesse social, e assentamentos habitacionais populares, habitados predominantemente por população de baixa renda, onde haja interesse público em manter a população moradora e promover a regularização fundiária e urbanística, recuperação ambiental e produção de Habitação de Interesse Social.
+******************************
+Índice: 1.125
+Camada: ZEIS 2-3-4-5 (4A)
+Palavras-chave: ['features', 'pde2014_v_zeis_04a_map_v2']
+Resumo: ZEIS 2 são áreas caracterizadas por glebas ou lotes não edificados ou subutilizados, adequados à urbanização e onde haja interesse público ou privado em produzir Empreendimentos de Habitação de Interesse Social; ZEIS 3 são áreas com ocorrência de imóveis ociosos, subutilizados, não utilizados, encortiçados ou deteriorados localizados em regiões dotadas de serviços, equipamentos e infraestruturas urbanas, boa oferta de empregos, onde haja interesse público ou privado em promover Empreendimentos de Habitação de Interesse Social; ZEIS 4 são áreas caracterizadas por glebas ou lotes não edificados e adequados à urbanização e edificação situadas na Área de Proteção aos Mananciais das bacias hidrográficas dos reservatórios de Guarapiranga e Billings, exclusivamente nas Macroáreas de Redução da Vulnerabilidade e Recuperação Ambiental e de Controle e Recuperação Urbana e Ambiental, destinadas à promoção de Habitação de Interesse Social para o atendimento de famílias residentes em assentamentos localizados na referida Área de Proteção aos Mananciais, preferencialmente em função de reassentamento resultante de plano de urbanização ou da desocupação de áreas de risco e de preservação permanente, com atendimento à legislação estadual; ZEIS 5 são lotes ou conjunto de lotes, preferencialmente vazios ou subutilizados, situados em áreas dotadas de serviços, equipamentos e infraestruturas urbanas, onde haja interesse privado em produzir empreendimentos habitacionais de mercado popular e de interesse social.
+******************************
+Índice: 1.126
+Camada: Urbano e Rural (1A)
+Palavras-chave: ['features', 'pde2014_v_zu_zr_01a_map_v2']
+Resumo: Macrozonas - Zona Urbana e Zona Rural. A Lei nº 16050/14 aprova a política de Desenvolvimento Urbano e o Plano Diretor Estratégico do Município de São Paulo/2014 e revoga a Lei nº 13.430/2002 - Plano Diretor de São Paulo/2002. Dispõe sobre a Política de Desenvolvimento Urbano, Sistema de Planejamento Urbano e Plano Diretor Estratégico do Município de São Paulo. Os objetivos estratégicos se desdobram em objetivos por porções homogêneas de território, estabelecidos por macroáreas, e nos objetivos estratégicos das políticas urbanas setoriais.
+******************************
+Índice: 1.127
+Camada: Pluviômetros
+Palavras-chave: ['features', 'pluviometro']
+Resumo: Rede de equipamentos automáticos e semi automáticos para medição de chuvas.
+******************************
+Índice: 1.128
+Camada: Ponto Cotado
+Palavras-chave: ['features', 'v_ponto_cotado_gsrv']
+Resumo: Identificação dos Pontos Cotados, com altitudes referidas ao nível do mar, do Município de São Paulo. O Ponto cotado é a projeção ortogonal de um ponto do terreno plano sobre a superfície de referência com a indicação da sua altitude. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.129
+Camada: Ponto Intervia
+Palavras-chave: ['features', 'v_ponto_intervia_gsrv']
+Resumo: Identificação dos Pontos Cotados nos cruzamentos de vias, com altitudes referidas ao nível do mar, do Município de São Paulo. A geocodificação é resultado do processo de restituição fotogramétrica por recobrimentos aéreo nas escalas 1:5.000 e 1:20.000. A Base Cartográfica geocodificada é armazenada no Oracle Spatial no padrão da OGC. Além das bases existem as ortofotos recortadas pelo Sistema Cartográfico Metropolitano - SCM em escalas 1:1.000 (área densamente povoada) e 1:5.000 (área com baixa densidade populacional).
+******************************
+Índice: 1.130
+Camada: Pontos de ônibus
+Palavras-chave: ['ponto_onibus', 'features']
+Resumo: Posição Geográfica de todas as paradas e terminais de ônibus gerenciados pela SPTrans. Também possui todas as estações gerenciadas pelo METRO e CPTM. Dados das linhas e horários obtidos a partir da base GTFS (https://developers.google.com/transit/gtfs/reference?hl=pt-br) gerado diariamente pela SPTrans.
+******************************
+Índice: 1.131
+Camada: Quadra
+Palavras-chave: ['v_quadra_gsrv', 'features']
+Resumo: Quadras do Mapa Digital da Secretaria de Finanças (MDSF) compreendendo quadras fiscais, municipais, rurais e divergentes. Elaborado a partir do Mapeamento Digital da Cidade de São Paulo nas escalas 1:1.000 para área urbanizada e 1:5.000 nas áreas com baixa ou nenhuma ocupação.
+******************************
+Índice: 1.132
+Camada: Quadra Viária
+Palavras-chave: ['features', 'quadra_viaria_meio_fio']
+Resumo: As quadras viárias são polígonos fechados, normalmente gerados a partir da restituição dos meios-fios e das linhas de delimitação do leito carroçável. Nas escalas 1:1.000 para área urbanizada e 1:5.000 nas áreas com baixa ou nenhuma ocupação. Processo feito por restituição fotogramétrica por recobrimentos aéreos nas escalas 1:5.000 e 1:20.000.
+******************************
+Índice: 1.133
+Camada: Índice das Fotos Aéreas de 1940
+Palavras-chave: ['quadricula_foto_aerea_1940_v2', 'features']
+Resumo: Índice das fotos do Levantamento aerofotogramétrico da Cidade de São Paulo, 1940.
+******************************
+Índice: 1.134
+Camada: Índice das Fotos Aéreas de 1954
+Palavras-chave: ['quadricula_foto_aerea_1954_v2', 'features']
+Resumo: Índice das fotos do Levantamento aerofotogramétrico da Cidade de São Paulo, 1954.
+******************************
+Índice: 1.135
+Camada: Índice das Fotos Aéreas de 2000
+Palavras-chave: ['features', 'quadricula_foto_aerea_2000_v2']
+Resumo: Articulação/quadrículas das Fotos Aéreas de 2000.
+******************************
+Índice: 1.136
+Camada: Índice das Fotos Aéreas de 2001
+Palavras-chave: ['quadricula_foto_aerea_2001_v2', 'features']
+Resumo: Índice das Fotos Aéreas de 2001.
+******************************
+Índice: 1.137
+Camada: Índice das Ortofotos 2001
+Palavras-chave: ['quadricula_orto_2001_emplasa_v2', 'features']
+Resumo: Índice das Ortofotos do ano de 2001, na escala 1:25000.
+******************************
+Índice: 1.138
+Camada: VASP Cruzeiro em 1954
+Palavras-chave: ['quadricula_vasp_cruzeiro', 'features']
+Resumo: Levantamento Aerofotogramétrico executado por VASP aerofotogrametria S/A e Serviços Aerofogramétricos Cruzeiro do Sul S/A.
+******************************
+Índice: 1.139
+Camada: Rede de distribuição de gás - COMGÁS
+Palavras-chave: ['features', 'rede_comgas']
+Resumo: Rede de distribuição de gás natural canalizado - COMGAS.
+******************************
+Índice: 1.140
+Camada: Registro de Área Pública
+Palavras-chave: ['features', 'registro_area_publica']
+Resumo: O Registro de Área Pública (RAP) representa as áreas públicas pertencentes à administração direta municipal, oriundas de parcelamentos, regularizações fundiárias, desapropriações, doações, permutas, heranças vacantes, entre outros. Cada RAP representa uma única área pública e possui os documentos que atestam sua titularidade disponíveis para download através do botão 'pesquisar' na aba 'área pública'. Os polígonos são desenhados apenas com a finalidade de cadastro, com base e adequação ao MDC.
+******************************
+Índice: 1.141
+Camada: Remanescentes do Bioma Mata Atlântica
+Palavras-chave: ['features', 'remanescente_mata_atlantica_pmma']
+Resumo: O Mapeamento dos Remanescentes de Mata Atlântica no Município de São Paulo é um dos produtos do Plano Municipal da Mata Atlântica – PMMA São Paulo. Integrante do Diagnóstico da situação atual da Mata Atlântica, no município, configura-se como elemento obrigatório do Plano conforme Art. 43 do Decreto Federal 6.660/2008. Saiba mais aqui http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/pmma/
+******************************
+Índice: 1.142
+Camada: Represa - Nível Máximo
+Palavras-chave: ['represa_nivel_maximo', 'features']
+Resumo: Os limites das represas Billings e Guarapiranga foram traçados a partir da cota correspondente ao nível máximo dessas represas (“máximo maximorum”), respectivamente 747,00 m e 736,62 m (Fonte: EMAE - cota I.G.G.), que convertidos para o Datum Vertical Marégrafo de Imbituba resultam em 748,15 m e 737,77 m.
+******************************
+Índice: 1.143
+Camada: Reservatório de Amortecimento - Piscinões
+Palavras-chave: ['reservatorio_amortecimento', 'features']
+Resumo: Polígonos representando os reservatórios para controle de cheias - popularmente conhecidos como "piscinões". Correspondem às estruturas para detenção ou retenção de água cuja finalidade é reduzir o efeito das enchentes em áreas urbanas.
+******************************
+Índice: 1.144
+Camada: Áreas com restrições geotécnicas
+Palavras-chave: ['features', 'restricao_geotecnica']
+Resumo: Áreas sujeitas a recalques e problemas geotécnicos.
+******************************
+Índice: 1.145
+Camada: Prefeituras Regionais
+Palavras-chave: ['features', 'sede_subprefeitura']
+Resumo: Localização das sedes físicas das Prefeituras Regionais da Cidade de São Paulo.
+******************************
+Índice: 1.146
+Camada: Logradouro
+Palavras-chave: ['v_logradouro_segmento', 'features']
+Resumo: Composta pelos logradouros das bases MDC, Sabesp, SpTrans e SF - eixo e denominação.
+******************************
+Índice: 1.147
+Camada: Cruzamentos Semaforizados
+Palavras-chave: ['features', 'semaforo']
+Resumo: Cruzamentos semaforizados.
+******************************
+Índice: 1.148
+Camada: Serviço de Assistência Social à Família
+Palavras-chave: ['servico_assistencia_social_familia', 'features']
+Resumo: O serviço desenvolve proteção social básica no domicílio junto a famílias em situação risco e de vulnerabilidade social, com idosos e pessoas com deficiência. Prevê a convivência e o fortalecimento de vínculos familiares e comunitários, por meio de ações socioeducativas que visam: o acesso à rede socioassistencial, a garantia de direitos, o desenvolvimento de potencialidades, a participação e ganho de autonomia, por meio de ações de caráter preventivo, protetivo e proativo, às situações de risco, exclusão e isolamento dos grupos familiares.
+******************************
+Índice: 1.149
+Camada: Serviço de Medida Socioeducativa em Meio Aberto
+Palavras-chave: ['features', 'servico_medida_socioeducativa']
+Resumo: Serviço referenciado ao Centro de Referência Especializado da Assistência Social – CREAS e tem por finalidade prover atenção socioassistencial e o acompanhamento aos adolescentes e jovens de ambos os sexos em cumprimento de medidas socioeducativas em meio aberto, de Liberdade Assistida e/ou Prestação de Serviços à Comunidade, determinadas judicialmente. O serviço deve contribuir para o acesso a direitos e a resignificação de valores na vida pessoal e social dos adolescentes e jovens. Esse serviço está vinculado ao CREAS e mantém relação direta com a equipe técnica deste Centro, que deverá operar a referência e a contrareferência com a rede de serviços socioassistenciais da proteção social básica e especial e com o Poder Judiciário, Ministério Público, Defensoria Pública, Conselhos Tutelares, outras Organizações de Defesa de Direitos e demais políticas públicas, no intuito de estruturar uma rede efetiva de proteção social.
+******************************
+Índice: 1.150
+Camada: Setor Censitário 2010
+Palavras-chave: ['setor_censitario_2010', 'features']
+Resumo: A malha se setores censitários é um arquivo digital vetorial dos setores referentes ao Censo 2010, elaborado a partir da malha municipal vigente de São Paulo. É composta pelas bases cartográficas compatíveis com escala original de trabalho, sem supressão de pontos, de acordo com critérios técnicos pré-estabelecidos pelo IBGE/DGC/CETE e utilizam como referência geodésica o SIRGAS 2000. O principal objetivo deste produto é oferecer ao público uma malha de setores censitários do IBGE, que viabiliza as análises estatísticas e o mapeamento temático de dados socioecnômicos e demográficos do município de São Paulo.
+******************************
+Índice: 1.151
+Camada: Densidade Demográfica (hab/ha)
+Palavras-chave: ['setor_censitario_densidadedemografica', 'features']
+Resumo: Mapa temático produzido a partir dos setores censitários e da população relativos ao censo 2010. É o resultado da divisão do total de habitantes pela área territorial.
+******************************
+Índice: 1.152
+Camada: IPVS (Índice Paulista de Vulnerabilidade Social)
+Palavras-chave: ['features', 'setor_censitario_vulnerabilidadesocial']
+Resumo: Índice elaborado pela Fundação SEADE cuja finalidade é oferecer ao gestor público e a sociedade em geral uma visão mais detalhada das condições de vida no interior do município, com a identificação e a localização espacial das áreas que abrigam os segmentos populacionais mais vulneráveis à pobreza.
+******************************
+Índice: 1.153
+Camada: Setor
+Palavras-chave: ['setor_fiscal', 'features']
+Resumo: Setores Fiscais do Mapa Digital da Secretaria de Finanças (MDSF). Elaborado a partir do Mapeamento Digital da Cidade de São Paulo nas escalas 1:1.000 para área urbanizada e 1:5.000 nas áreas com baixa ou nenhuma ocupação.
+******************************
+Índice: 1.154
+Camada: Prefeituras Regionais
+Palavras-chave: ['subprefeitura', 'features']
+Resumo: As subprefeituras foram criadas mediante a Lei nº 13.339/2002. Seus limites foram estabelecidos de forma a não comprometer a divisão distrital do município, permitindo assim a agregação de dados também para cada uma dessas unidades político-administrativas.
+******************************
+Índice: 1.155
+Camada: Subsetor Operacao Urbana
+Palavras-chave: ['features', 'subsetor_operacao_urbana']
+Resumo: As Operações Urbanas visam promover melhorias em regiões pré - determinadas da cidade através de parcerias entre o Poder Público e a iniciativa privada. Cada área, objeto de Operação Urbana, tem uma lei específica estabelecendo as metas a serem cumpridas, bem como os mecanismos de incentivos e benefícios. O perímetro de cada Operação Urbana é favorecido por leis que prevêem flexibilidade quanto aos limites estabelecidos pela Lei de Zoneamento, mediante o pagamento de uma contrapartida financeira. Este dinheiro é pago à Prefeitura, e só pode ser usado em melhorias urbanas na própria região. Uma lei de Operação Urbana pode conter concessões não onerosas, entendidas como um estímulo adicional à ocorrência de investimentos na área.
+******************************
+Índice: 1.156
+Camada: Terminal de Ônibus
+Palavras-chave: ['v_terminal_onibus_gsrv', 'features']
+Resumo: Identificação dos pontos georreferenciados de Terminais rodoviários e urbanos de ônibus.
+******************************
+Índice: 1.157
+Camada: Terra Indígena
+Palavras-chave: ['terra_indigena', 'features']
+Resumo: Perímetros das terras indígenas do tipo 1) tradicionalmente ocupadas, 2) reservas indígenas, 3) terras dominiais e 4) interditadas nos termos da legislação vigente (CF/88, Lei 6001/73 – Estatuto do Índio, Decreto n.º1775/96).
+******************************
+Índice: 1.158
+Camada: Uso Predominante do Solo Fiscal
+Palavras-chave: ['features', 'v_tpcl_uso_predominancia']
+Resumo: Tipo de uso do solo predominante (maior ou igual a 60%) por quadra fiscal. Com a finalidade de análise do espaço urbano, a Secretaria Municipal de Planejamento (Sempla), hoje Secretaria Municipal de Desenvolvimento Urbano (SMDU) estabeleceu uma metodologia de agregação resultante do cruzamento entre os valores USO e PADRÃO atribuídos pelo TPCL, para cada imóvel cadastrado, gerando as 16 tipologias de uso H relacionadas na tabela Descrição de Tipologias de Uso do Solo – H. Saiba mais em http://infocidade.prefeitura.sp.gov.br/index.php?sub=no
+tas&cat=17&titulo=Uso%20do%20Solo%20Urbano&subtit=%20-%
+20Notas%20T%E9cnicas.
+******************************
+Índice: 1.159
+Camada: Rede de transporte de óleo e gás - Transpetro - Dutos
+Palavras-chave: ['transpetro_duto', 'features']
+Resumo: Dutos destinados geralmente ao transporte de produtos líquidos “petróleo e derivados” e produtos gasosos “Gás Natural e GLP, enterrados a uma profundidade de em média 1,5 metros. Sua localização é sinalizada, em superfície, por marcos identificadores.
+******************************
+Índice: 1.160
+Camada: Rede de transporte de óleo e gás - Transpetro - Marco
+Palavras-chave: ['features', 'transpetro_marco']
+Resumo: Marcos identificadores, sinalizando a localização de dutos destinados geralmente ao transporte de produtos líquidos, "petróleo e derivados" e produtos gasosos "gás natural e GLP”.
+******************************
+Índice: 1.161
+Camada: Unidades de Conservação - APA
+Palavras-chave: ['unidade_conservacao_APA', 'features']
+Resumo: Unidades de conservação (UCs) são regidas pelo Sistema Nacional de Unidades de Conservação da Natureza – SNUC, Lei Federal nº 9985/00. As UCs de Proteção Integral visam à preservação da natureza, permitindo apenas o uso indireto de seus recursos naturais. Já as UCs de Uso Sustentável tem como objetivo a conservação da natureza, considerando o uso direto e sustentável de parcela de seus recursos naturais, incluindo as áreas de proteção ambiental (APAs), com exceção da Reserva Particular do Patrimônio Natural (RPPN), à qual aplica-se a restrição de uso imposta às UCs de Proteção.
+******************************
+Índice: 1.162
+Camada: Rede cicloviária
+Palavras-chave: ['via_bicicleta', 'features']
+Resumo: Rede cicloviária municipal constituída pelas intervenções viárias dedicadas à circulação exclusiva ou não de bicicletas. São compostas por ciclovias, ciclofaixas, calçadas partilhadas, calçadas compartilhadas e ciclorrotas.
+******************************
+Índice: 1.163
+Camada: ZEIS (Zona Especial de Interesse Social) - Revogado - Lei 13.885/04
+Palavras-chave: ['features', 'zeis_revogada_v2']
+Resumo: Perímetros de ZEIS (Zona Especial de Interesse Social) - Revogado - Lei 13.885/04.
+******************************
+Índice: 1.164
+Camada: Zona Origem-Destino
+Palavras-chave: ['zona_origem_destino', 'features']
+Resumo: A zona de pesquisa é a unidade geográfica a partir da qual existe representatividade estatística dos dados. Para definição das zonas de pesquisa, foram considerados os limites de outras duas unidades territoriais, a do Censo Demográfico do IBGE (2000) e os Distritos Municipais de São Paulo. Das 460 zonas de pesquisa 320 representam o Município de São Paulo e as restantes representam os demais municípios da RMSP.
+******************************
+Índice: 1.165
+Camada: Perímetros das Zonas (1)
+Palavras-chave: ['zon2016_mapa1', 'features']
+Resumo: Perímetros das zonas de uso e ocupação do solo (exceto ZEPEC).
+******************************
+Índice: 1.166
+Camada: ZEPEC e indicações (2)
+Palavras-chave: ['zon2016_mapa2', 'features']
+Resumo: Zonas Especiais de Preservação Cultural são porções do território destinadas à preservação, valorização e salvaguarda dos bens de valor histórico, artístico, arquitetônico, arqueológico e paisagístico, doravante definidos como patrimônio cultural, podendo se configurar como elementos construídos, edificações e suas respectivas áreas ou lotes; conjuntos arquitetônicos, sítios urbanos ou rurais; sítios arqueológicos, áreas indígenas, espaços públicos; templos religiosos, elementos paisagísticos; conjuntos urbanos, espaços e estruturas que dão suporte ao patrimônio imaterial e/ou a usos de valor socialmente atribuído.
+******************************
+Índice: 1.167
+Camada: Qualificação Ambiental (3)
+Palavras-chave: ['zon2016_mapa3', 'features']
+Resumo: Perímetros definidos a partir de indicadores de qualidade ambiental relativos à drenagem, microclima e biodiversidade. São utilizados para aplicação da "quota ambiental" que compreende um conjunto de regras de ocupação para que lote na cidade contribua com a melhoria da qualidade ambiental. Tais regras passam a incidir quando se pretender uma nova edificação ou a reforma de um edifício existente.
+******************************
+Índice: 1.168
+Camada: Incentivos - Edif. - Garagem (4)
+Palavras-chave: ['zon2016_mapa4', 'features']
+Resumo: Áreas de incentivo para construção de edifícios garagem, nas quais não incidirá contrapartida financeira da outorga onerosa de potencial construtivo adicional desde que as áreas edificadas nos pavimentos de acesso sejam destinadas a outros usos não residenciais, que possuam a fachada ativa e que seja aplicada no mínimo 50% de cobertura verde na edificação. Localizam-se, em geral, próximo a novas estações de trem, metrô ou monotrilho.
+******************************
+Índice: 1.169
+Camada: ZEUP e ZEMP ativados por Decreto
+Palavras-chave: ['zoneamento_2016_zeup_zemp', 'features']
+Resumo: Eixos ativados por meio de Decretos.
+******************************
+Índice: 1.170
+Camada: Classificação Viária - Revogado - Lei 13.885/04
+Palavras-chave: ['v_eixo_logradouro_via_gsrv', 'features']
+Resumo: Sistema viário classificado segundo as Leis nº 13.430/02 e 13.885/04, e as alterações decorrentes da aplicação da RESOLUÇÃO/SEMPLA/CTLU/023/2005. A relação das vias classificadas como estruturais ou coletoras foram associadas a base do Mapa Digital da Cidade (MDC).
+******************************
+Índice: 1.171
+Camada: Zona de Centralidade Linear - Revogado - Lei 13.885/04
+Palavras-chave: ['corredor_zoneamento', 'features']
+Resumo: Os Corredores de uso são trechos de logradouros públicos enquadrados como zonas de centralidades, complementam o zoneamento do território da cidade de São Paulo. A Lei de Zoneamento estabelece normas complementares ao Plano Diretor Estratégico, institui os Planos Regionais Estratégicos das Subprefeituras, dispõe sobre o parcelamento, disciplina e ordena o Uso e Ocupação do Solo do Município de São Paulo. Os corredores de uso foram vetorizados de acordo com o estabelecido na Lei nº 13.885/2004, tendo como base cartográfica o Mapa Digital da Cidade (MDC).
