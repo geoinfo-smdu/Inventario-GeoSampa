@@ -1,0 +1,752 @@
+Seguem a seguir as 249 camadas, grupos e subgrupos obtidas por WebScraping do site do GeoSampa
+******************************
+Índice: 0
+Camada: Político-Administrativo
+******************************
+Índice: 1
+Camada: Topografia
+******************************
+Índice: 2
+Camada: Mapeamento 1930 - Sara
+******************************
+Índice: 3
+Camada: Mapeamento 1954 - Vasp Cruzeiro 
+******************************
+Índice: 4
+Camada: Publicação 1988 - Vegetação
+******************************
+Índice: 5
+Camada: Ortofoto 2004 - MDC
+******************************
+Índice: 6
+Camada: Ortofoto 2017 - PMSP RGB
+******************************
+Índice: G
+Grupo: Limites Administrativos
+******************************
+Índice: 7
+Camada: Distrito
+******************************
+Índice: 9
+Camada: Subprefeituras
+******************************
+Índice: 11
+Camada: Municípios do Estado de São Paulo
+******************************
+Índice: G
+Grupo: População
+******************************
+Índice: S
+SubGrupo: Censo demográfico
+******************************
+Índice: 12
+Camada: Setor Censitário 2010
+******************************
+Índice: 13
+Camada: Dens. Demográfica (hab/ha)
+******************************
+Índice: S
+SubGrupo: Indicadores sociais
+******************************
+Índice: 14
+Camada: IPVS
+******************************
+Índice: G
+Grupo: Equipamentos
+******************************
+Índice: S
+SubGrupo: Abastecimento
+******************************
+Índice: 15
+Camada: Mercados Municipais
+******************************
+Índice: 16
+Camada: Sacolões
+******************************
+Índice: 17
+Camada: Feira livre
+******************************
+Índice: 18
+Camada: Bom Prato
+******************************
+Índice: S
+SubGrupo: Assistência Social
+******************************
+Índice: 19
+Camada: Assistência Social
+******************************
+Índice: 20
+Camada: Centro de Referência de Assistência Social
+******************************
+Índice: 22
+Camada: Serviço de Medida Socioeducativa em Meio Aberto
+******************************
+Índice: 23
+Camada: Serviço de Assistência Social à Família
+******************************
+Índice: S
+SubGrupo: Cultura
+******************************
+Índice: 25
+Camada: Bibliotecas
+******************************
+Índice: 26
+Camada: Espaços Culturais
+******************************
+Índice: 27
+Camada: Museus
+******************************
+Índice: 28
+Camada: Teatro/Cinema/Shows
+******************************
+Índice: 29
+Camada: Outros
+******************************
+Índice: S
+SubGrupo: Direitos Humanos
+******************************
+Índice: 30
+Camada: Rede de Serviços
+******************************
+Índice: 31
+Camada: Conselho Tutelar
+******************************
+Índice: 32
+Camada: Entidades Criança e Adolescente
+******************************
+Índice: S
+SubGrupo: Educação
+******************************
+Índice: 33
+Camada: CEU
+******************************
+Índice: 34
+Camada: Ensino Fundamental e Médio
+******************************
+Índice: 35
+Camada: Educação Infantil
+******************************
+Índice: 36
+Camada: Rede Privada
+******************************
+Índice: 37
+Camada: Ensino técnico público
+******************************
+Índice: 38
+Camada: Senai / Sesi / Senac
+******************************
+Índice: 39
+Camada: Outros
+******************************
+Índice: S
+SubGrupo: Esporte
+******************************
+Índice: 40
+Camada: Centro Esportivo
+******************************
+Índice: 41
+Camada: Estádios
+******************************
+Índice: 42
+Camada: Clubes
+******************************
+Índice: 43
+Camada: Clubes da Comunidade
+******************************
+Índice: 44
+Camada: Outros
+******************************
+Índice: S
+SubGrupo: Saúde
+******************************
+Índice: 45
+Camada: Ambulatórios especializados
+******************************
+Índice: 46
+Camada: Saúde mental
+******************************
+Índice: 47
+Camada: Vigilância em saúde
+******************************
+Índice: 48
+Camada: UBS/Posto/Centro de Saúde
+******************************
+Índice: 49
+Camada: Urgência / Emergência
+******************************
+Índice: 50
+Camada: Hospital
+******************************
+Índice: 51
+Camada: Unidades DST/AIDS
+******************************
+Índice: 52
+Camada: Outros
+******************************
+Índice: S
+SubGrupo: Segurança
+******************************
+Índice: 53
+Camada: Casa Mediação
+******************************
+Índice: 54
+Camada: Bombeiros
+******************************
+Índice: 55
+Camada: Polícia Civíl
+******************************
+Índice: 56
+Camada: Polícia Militar
+******************************
+Índice: 57
+Camada: Guarda Civíl Metropolitana
+******************************
+Índice: S
+SubGrupo: Serviços
+******************************
+Índice: 58
+Camada: CATe
+******************************
+Índice: 59
+Camada: Animais
+******************************
+Índice: 60
+Camada: Ecoponto
+******************************
+Índice: 61
+Camada: C. de Triagem - cooperativa
+******************************
+Índice: 62
+Camada: C. de Triagem - mecanizada
+******************************
+Índice: 63
+Camada: Subprefeituras
+******************************
+Índice: 65
+Camada: Sabesp
+******************************
+Índice: 66
+Camada: Correio
+******************************
+Índice: 67
+Camada: Consulados
+******************************
+Índice: 68
+Camada: Eletropaulo
+******************************
+Índice: 69
+Camada: Cemitério
+******************************
+Índice: 71
+Camada: Receita Federal
+******************************
+Índice: 72
+Camada: Poupatempo
+******************************
+Índice: 73
+Camada: Shopping Center
+******************************
+Índice: S
+SubGrupo: Conectividade Digital
+******************************
+Índice: 75
+Camada: Telecentro
+******************************
+Índice: 76
+Camada: FabLab - grande laboratório
+******************************
+Índice: 77
+Camada: FabLab - pequeno laboratório
+******************************
+Índice: 78
+Camada: Wi-Fi Livre
+******************************
+Índice: G
+Grupo: Transporte
+******************************
+Índice: S
+SubGrupo: Bicicleta
+******************************
+Índice: 79
+Camada: Rede cicloviária
+******************************
+Índice: S
+SubGrupo: Ônibus
+******************************
+Índice: 80
+Camada: Pontos de ônibus
+******************************
+Índice: 81
+Camada: Terminal de Ônibus
+******************************
+Índice: 82
+Camada: Corredores
+******************************
+Índice: 83
+Camada: Faixas exclusivas
+******************************
+Índice: 84
+Camada: Linhas de Ônibus
+******************************
+Índice: S
+SubGrupo: Trem
+******************************
+Índice: 85
+Camada: Trem Metropolitano - Estação
+******************************
+Índice: 86
+Camada: Trem Metropolitano - Linha
+******************************
+Índice: 87
+Camada: Ferrovia
+******************************
+Índice: S
+SubGrupo: Metrô
+******************************
+Índice: 88
+Camada: Metrô - Estação
+******************************
+Índice: 89
+Camada: Metrô - Linha
+******************************
+Índice: 90
+Camada: Zona Origem-Destino
+******************************
+Índice: G
+Grupo: Sistema Viário
+******************************
+Índice: 92
+Camada: Logradouro
+******************************
+Índice: 94
+Camada: Classificação Viária CET
+******************************
+Índice: 96
+Camada: Quadra Viária
+******************************
+Índice: 97
+Camada: Obras de Arte
+******************************
+Índice: 98
+Camada: Cruzamentos Semaforizados
+******************************
+Índice: 99
+Camada: Zona Azul
+******************************
+Índice: 100
+Camada: Calçadas
+******************************
+Índice: 101
+Camada: Acidentes
+******************************
+Índice: S
+SubGrupo: Restrição à circulação de veículos
+******************************
+Índice: 102
+Camada: MIAN
+******************************
+Índice: 104
+Camada: ZMRC
+******************************
+Índice: 106
+Camada: ZMRF
+******************************
+Índice: G
+Grupo: Habitação / Edificação
+******************************
+Índice: 108
+Camada: Favela - Habitasampa
+******************************
+Índice: 109
+Camada: Núcleo - Habitasampa
+******************************
+Índice: 110
+Camada: Loteamento Irregular - Habitasampa
+******************************
+Índice: 111
+Camada: Cortiço - Habitasampa
+******************************
+Índice: 112
+Camada: Edificações 3D
+******************************
+Índice: 113
+Camada: Edificações 2D
+******************************
+Índice: G
+Grupo: Proteção e Defesa Civil
+******************************
+Índice: 114
+Camada: Área de Risco Geológico
+******************************
+Índice: 116
+Camada: Pluviômetros
+******************************
+Índice: S
+SubGrupo: Ocorrências
+******************************
+Índice: 117
+Camada: Alagamento
+******************************
+Índice: 118
+Camada: Deslizamento
+******************************
+Índice: 119
+Camada: Inundação
+******************************
+Índice: 120
+Camada: Queda de árvore
+******************************
+Índice: 121
+Camada: Risco de Deslizamento
+******************************
+Índice: G
+Grupo: Infraestrutura Urbana
+******************************
+Índice: 122
+Camada: Rede de distribuição de gás - COMGÁS
+******************************
+Índice: 123
+Camada: Energia
+******************************
+Índice: 124
+Camada: Reservatório de Amortecimento  Piscinões
+******************************
+Índice: S
+SubGrupo: Iluminação Pública
+******************************
+Índice: 125
+Camada: Pontos de iluminação pública
+******************************
+Índice: S
+SubGrupo: Rede de transporte de óleo e gás - Transpetro
+******************************
+Índice: 126
+Camada: Dutos
+******************************
+Índice: 127
+Camada: Marcos
+******************************
+Índice: G
+Grupo: Verde / Recursos naturais
+******************************
+Índice: S
+SubGrupo: Plano Municipal da Mata Atlântica - PMMA
+******************************
+Índice: 128
+Camada: Remanescentes do Bioma Mata Atlântica
+******************************
+Índice: S
+SubGrupo: Parques e Unidades de Conservação
+******************************
+Índice: 130
+Camada: Parques Municipais Urbanos e Lineares
+******************************
+Índice: 132
+Camada: Unidades de Conservação APA
+******************************
+Índice: 134
+Camada: Arborização viária
+******************************
+Índice: G
+Grupo: Meio Fisico
+******************************
+Índice: S
+SubGrupo: Hidrografia
+******************************
+Índice: 135
+Camada: Drenagem
+******************************
+Índice: 137
+Camada: Nível Represa 2004
+******************************
+Índice: 138
+Camada: Represa - Nível Máximo
+******************************
+Índice: 139
+Camada: Massa Dágua
+******************************
+Índice: 140
+Camada: Ilha
+******************************
+Índice: 141
+Camada: Bacia Hidrografica
+******************************
+Índice: 143
+Camada: Área de Proteção aos Mananciais
+******************************
+Índice: S
+SubGrupo: Topografia
+******************************
+Índice: 144
+Camada: Marco Geodésico
+******************************
+Índice: 145
+Camada: Ponto cotado
+******************************
+Índice: 146
+Camada: Ponto intervia
+******************************
+Índice: 147
+Camada: Curva Mestra
+******************************
+Índice: 148
+Camada: Curva Intermediária
+******************************
+Índice: 149
+Camada: Declividade
+******************************
+Índice: 150
+Camada: Carta Geotécnica
+******************************
+Índice: 151
+Camada: Áreas com restrições geotécnicas
+******************************
+Índice: G
+Grupo: Cadastro
+******************************
+Índice: S
+SubGrupo: Cadastro Fiscal
+******************************
+Índice: 153
+Camada: Setor
+******************************
+Índice: 155
+Camada: Quadra
+******************************
+Índice: 157
+Camada: Lote
+******************************
+Índice: 159
+Camada: Uso Predominante do Solo Fiscal
+******************************
+Índice: S
+SubGrupo: Área Pública
+******************************
+Índice: 161
+Camada: Área Cedida
+******************************
+Índice: 163
+Camada: Cadastro de Área Publica – CAP
+******************************
+Índice: 165
+Camada: Croqui Patrimonial
+******************************
+Índice: S
+SubGrupo: Parcelamento
+******************************
+Índice: 167
+Camada: Passagem - PS
+******************************
+Índice: 168
+Camada: Diretriz - DZ
+******************************
+Índice: 169
+Camada: Desmembramento de Gleba - DG
+******************************
+Índice: 170
+Camada: Conjunto - CJ
+******************************
+Índice: 171
+Camada: Área Urbanizada Regularizada - AU
+******************************
+Índice: 172
+Camada: Arruamento - ARR
+******************************
+Índice: 173
+Camada: Cartórios de Registro de Imóveis
+******************************
+Índice: G
+Grupo: Legislação Urbana
+******************************
+Índice: S
+SubGrupo: Zoneamento – Lei 16.402/16
+******************************
+Índice: 175
+Camada: Perímetros das Zonas (1)
+******************************
+Índice: 177
+Camada: ZEUP e ZEMP ativados por Decreto
+******************************
+Índice: 178
+Camada: ZEPEC e indicações (2)
+******************************
+Índice: 180
+Camada: Qualificação Ambiental (3)
+******************************
+Índice: 182
+Camada: Incentivos – Edif.-Garagem (4)
+******************************
+Índice: S
+SubGrupo: PDE - Lei 16.050/14
+******************************
+Índice: 183
+Camada: Macrozona (1)
+******************************
+Índice: 185
+Camada: Urbano e Rural (1A)
+******************************
+Índice: 187
+Camada: Macroárea (2)
+******************************
+Índice: 189
+Camada: Setores da Macroárea de Estruturação Metropolitana (2A)
+******************************
+Índice: 191
+Camada: Eixos de Estruturação da Transformação Urbana (3)
+******************************
+Índice: 192
+Camada: Eixos Previstos (3A)
+******************************
+Índice: 193
+Camada: Eixos Ativados por Decreto
+******************************
+Índice: 194
+Camada: ZEIS 1 (4)
+******************************
+Índice: 196
+Camada: ZEIS 2-3-4-5 (4A)
+******************************
+Índice: 198
+Camada: Áreas Verdes (5)
+******************************
+Índice: 200
+Camada: Perímetros de Incentivo (11)
+******************************
+Índice: S
+SubGrupo: Zoneamento Revogado - Lei 13.885/04
+******************************
+Índice: 202
+Camada: Classificação Viária
+******************************
+Índice: 203
+Camada: ZEIS
+******************************
+Índice: 204
+Camada: Perímetro Zona de Uso
+******************************
+Índice: 205
+Camada: Zona de Centralidade Linear
+******************************
+Índice: 206
+Camada: Utilidade Pública e Interesse Social
+******************************
+Índice: 207
+Camada: Operação Urbana
+******************************
+Índice: 209
+Camada: Setores / Subsetores da Operação Urbana
+******************************
+Índice: 211
+Camada: Imóveis Notificados - Função Social
+******************************
+Índice: 212
+Camada: Outorga Onerosa
+******************************
+Índice: 213
+Camada: Terra Indígena
+******************************
+Índice: G
+Grupo: Patrimônio Cultural
+******************************
+Índice: S
+SubGrupo: Bens Arqueológicos
+******************************
+Índice: 214
+Camada: Sítio Arqueológico
+******************************
+Índice: 215
+Camada: Ocorrência Arqueológica
+******************************
+Índice: 216
+Camada: Bem de Interesse Arqueológico
+******************************
+Índice: 217
+Camada: Área de Interesse Arqueológico
+******************************
+Índice: S
+SubGrupo: Bens Protegidos
+******************************
+Índice: 218
+Camada: Bem Tombado e/ou em Processo de Tombamento
+******************************
+Índice: 219
+Camada: Acervo Tombado
+******************************
+Índice: 220
+Camada: Lugar de Interesse Paisagístico Ambiental
+******************************
+Índice: 221
+Camada: Bairro Ambiental
+******************************
+Índice: 222
+Camada: Área Envoltória CONPRESP
+******************************
+Índice: 223
+Camada: Área Envoltória CONDEPHAAT
+******************************
+Índice: 224
+Camada: Área Envoltória IPHAN
+******************************
+Índice: 225
+Camada: Monumento
+******************************
+Índice: 226
+Camada: Bem Registrado
+******************************
+Índice: 227
+Camada: Selo de Valor Cultural
+******************************
+Índice: 228
+Camada: Inventário Memória Paulistana
+******************************
+Índice: G
+Grupo: Acessibilidade
+******************************
+Índice: 229
+Camada: Selo
+******************************
+Índice: G
+Grupo: Articulação de Imagens
+******************************
+Índice: 230
+Camada: Fotos Aéreas de 1940
+******************************
+Índice: 231
+Camada: Fotos Aéreas de 1954
+******************************
+Índice: 232
+Camada: Fotos Aéreas de 2000
+******************************
+Índice: 233
+Camada: Fotos Aéreas de 2001
+******************************
+Índice: 234
+Camada: Fotos Aéreas de 2004
+******************************
+Índice: 235
+Camada: Fotos Aéreas de 2017
+******************************
+Índice: 236
+Camada: Publicação 1988 - Vegetação
+******************************
+Índice: 237
+Camada: SARA Brasil em 1930
+******************************
+Índice: 238
+Camada: VASP Cruzeiro em 1954
+******************************
+Índice: 239
+Camada: Ortofotos 2001
+******************************
+Índice: 240
+Camada: Ortofotos 2004 - MDC
+******************************
+Índice: 241
+Camada: Ortofotos 2017
+******************************
+Índice: 242
+Camada: MDT
+******************************
+Total de grupos:    15
+Total de subgrupos: 32
+Total de camadas:   202
